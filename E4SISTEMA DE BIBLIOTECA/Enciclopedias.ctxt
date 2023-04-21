@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Enciclopedias
+comment1.params=cod\ titulo\ autor\ volumen\ Npaginas
+comment1.target=Enciclopedias(int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=int\ getNPaginas()
+comment11.params=Npaginas
+comment11.target=void\ setNPaginas(int)
+comment12.params=
+comment12.target=void\ mostrarEnciclopedias()
+comment2.params=
+comment2.target=int\ getCod()
+comment3.params=cod
+comment3.target=void\ setCod(int)
+comment4.params=
+comment4.target=java.lang.String\ getTitulo()
+comment5.params=titulo
+comment5.target=void\ setTitulo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getAutor()
+comment7.params=autor
+comment7.target=void\ setAutor(java.lang.String)
+comment8.params=
+comment8.target=int\ getVolumen()
+comment9.params=volumen
+comment9.target=void\ setVolumen(int)
+numComments=13

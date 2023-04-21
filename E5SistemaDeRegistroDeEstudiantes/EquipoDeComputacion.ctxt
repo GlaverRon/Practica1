@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EquipoDeComputacion
+comment1.params=numeroDeEquipo
+comment1.target=EquipoDeComputacion(int)
+comment2.params=
+comment2.target=int\ getNumeroDeEquipo()
+comment3.params=
+comment3.target=boolean\ estaDisponible()
+comment4.params=disponible
+comment4.target=void\ setDisponible(boolean)
+numComments=5

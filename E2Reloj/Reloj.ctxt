@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Reloj
+comment1.params=
+comment1.target=Reloj()
+comment2.params=
+comment2.target=int\ getHora()
+comment3.params=hora
+comment3.target=void\ setHora(int)
+comment4.params=
+comment4.target=int\ getMinuto()
+comment5.params=minuto
+comment5.target=void\ setMinuto(int)
+comment6.params=
+comment6.target=int\ getSegundo()
+comment7.params=segundo
+comment7.target=void\ setSegundo(int)
+comment8.params=sal
+comment8.target=void\ setSal(boolean)
+comment9.params=
+comment9.target=void\ inicioReloj()
+numComments=10

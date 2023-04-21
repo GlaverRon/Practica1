@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Mapas
+comment1.params=titulo\ autor\ latitud\ longitud
+comment1.target=Mapas(java.lang.String,\ java.lang.String,\ double,\ double)
+comment10.params=
+comment10.target=double\ getLongitud()
+comment11.params=longitud
+comment11.target=void\ setLongitud(double)
+comment12.params=
+comment12.target=void\ mostrarMapas()
+comment2.params=
+comment2.target=int\ getCod()
+comment3.params=cod
+comment3.target=void\ setCod(int)
+comment4.params=
+comment4.target=java.lang.String\ getTitulo()
+comment5.params=titulo
+comment5.target=void\ setTitulo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getAutor()
+comment7.params=autor
+comment7.target=void\ setAutor(java.lang.String)
+comment8.params=
+comment8.target=double\ getLatitud()
+comment9.params=latitud
+comment9.target=void\ setLatitud(double)
+numComments=13

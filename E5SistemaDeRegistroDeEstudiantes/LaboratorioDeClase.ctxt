@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=LaboratorioDeClase
+comment1.params=id\ instructor\ horario\ cupo
+comment1.target=LaboratorioDeClase(int,\ java.lang.String,\ Horario,\ int)
+comment10.params=
+comment10.target=void\ mostrarEquipo()
+comment11.params=
+comment11.target=void\ mostrarEstudiantes()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getInstructor()
+comment4.params=
+comment4.target=Horario\ getHorario()
+comment5.params=
+comment5.target=java.util.ArrayList\ getEquipos()
+comment6.params=
+comment6.target=java.util.ArrayList\ getEstudiantes()
+comment7.params=
+comment7.target=int\ getCupo()
+comment8.params=
+comment8.target=boolean\ hayCupoDisponible()
+comment9.params=estudiante
+comment9.target=boolean\ agregarEstudiante(Estudiante)
+numComments=12
